@@ -1,0 +1,11 @@
+---
+- name: Проверка доступности хостов
+  hosts: upravlenie, podrazdeleniya
+  become: yes
+  gather_facts: false
+
+  tasks:
+  - name: Наличие соединения с хостами
+    debug:
+      msg: "Подр.: /{{ unit }}/. | Тел.: /{{ phone }}/ | ip.: /{{ ansible_host }}/ | User.: /{{ owner }}/"
+...

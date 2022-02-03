@@ -1,0 +1,16 @@
+---
+- name: Назначение владельца директории и присвоение ему полных прав доступа
+  hosts: linux
+  become: yes
+  gather_facts: false
+
+  tasks:
+  - name: Назначение владельца домашней директории
+    command: sudo chown -R {{ owner }}@rosgvard.ru:"ROSGVARD\пользователи домена" /home/ROSGVARD/{{ owner }}
+
+  - name: Присвоение владельцу полных прав доступа
+    command: sudo chmod -R ug+rwx /home/ROSGVARD/{{ owner }}
+
+  - name: Разрешаем использование flash-накопителей
+    command: sudo usermod -aG floppy {{ owner }}@rosgvard.ru
+...

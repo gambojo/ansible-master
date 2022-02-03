@@ -1,0 +1,38 @@
+---
+- name: Настройка новых АРМ
+  hosts: linux
+  become: yes
+  gather_facts: false
+  
+  vars:
+    update: cat /etc/astra_update_version | head -n 1 | awk -v q="'" '{print q $1,$2 q}'
+
+  tasks:
+  - block:
+    - name: Скачивание списка репозиториев
+      copy:
+        src: /etc/ansible/scripts/update_6.sh
+        dest: /home/administrator/Загрузки/update_6.sh
+        mode: 0114
+
+    - name: Добавление списка репозиториев
+      command: "sudo bash /home/administrator/Загрузки/update_6.sh"
+
+    when: update == 'Update 6'
+
+  - name: Обновление репозиториев
+    apt:
+      update_cache: yes
+
+  - name: Обновление системы
+    apt:
+      upgrade: yes
+
+  - name: Установка программ
+    apt:
+      pkg:
+      - gis-client
+      - evince
+      - nautilus
+      - simple-scan
+...

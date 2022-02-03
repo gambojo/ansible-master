@@ -1,0 +1,180 @@
+[upravlenie]
+3642-A001-3000	ansible_host=10.3.72.71 owner=lukachevyun unit="Командование" phone="10-01"
+3642-A002-2018	ansible_host=10.3.72.209 owner=esrefovva
+3642-a011-2141	ansible_host=10.3.72.122 owner=semenchatenkosa
+3642-A028-5691	ansible_host=10.3.72.201 owner=ranyukav
+3642-B001-9681	ansible_host=10.3.72.116 owner=yudinalva
+3642-A012-9011	ansible_host=10.3.72.217 owner=gulaevvv
+# 3642-A003-2131	ansible_host=10.3.72.212 
+3642-A004-0741	ansible_host=10.3.72.194 owner=kotenkoae
+3642-A005-2020	ansible_host=10.3.72.162 owner=semenovykhna
+3642-a005-2028	ansible_host=10.3.72.80 owner=strukalinani
+3642-A005-9761	ansible_host=10.3.72.132 owner=afanasevaa
+3642-A006-0100	ansible_host=10.3.72.171 owner=potapoval
+3642-A006-2100	ansible_host=10.3.72.174 owner=fadeevdv
+3642-A007-0111	ansible_host=10.3.72.81 owner=dyakonovva
+3642-A007-5181	ansible_host=10.3.72.153 owner=polyakovrom
+3642-A007-5191	ansible_host=10.3.72.127 owner=zyryanovroal
+3642-A007-5211	ansible_host=10.3.72.52 owner=zhuravlevls
+3642-A007-5231	ansible_host=10.3.72.134 owner=zinnurovai
+3642-A007-5871	ansible_host=10.3.72.180 owner=bp010_3642_yuo
+3642-A007-8521	ansible_host=10.3.72.202 owner=bazanovvv
+3642-A009-9111	ansible_host=10.3.72.98 owner=talanovdy unit="Отделение связи" phone="10-01"
+3642-A014-3694	ansible_host=10.3.72.55 owner=ershovanser
+3642-A014-8000	ansible_host=10.3.72.183 owner=kapustinvv
+3642-A016-0861	ansible_host=10.3.72.211 owner=vorobevalgr
+3642-A016-2100	ansible_host=10.3.72.79 owner=kolesnikop
+# 3642-A017-0111	ansible_host=10.3.72.75 #server
+3642-A017-0661	ansible_host=10.3.72.214 owner=bp410_3642_yuo
+3642-A017-6321	ansible_host=10.3.72.199 owner=yakovlevvp
+3642-A019-5311	ansible_host=10.3.72.188 owner=boldyrevai
+3642-A019-5321	ansible_host=10.3.72.82 owner=pavlenkoep
+3642-A019-5351	ansible_host=10.3.72.70 owner=gusevya
+3642-A020-1111	ansible_host=10.3.72.151 owner=tikhonovaanan
+3642-A020-2103	ansible_host=10.3.72.121 owner=savchenkonv
+3642-a020-9111	ansible_host=10.3.72.53 owner=kayumovaop
+3642-A021-5341	ansible_host=10.3.72.55 owner=bikeevsg
+3642-A022-2094	ansible_host=10.3.72.95 owner=yakovlevvp
+3642-A022-2601  ansible_host=10.3.72.74 owner=ivanovnipa
+## 3642-A023-8871	ansible_host=10.3.72.115 Щукин???
+3642-A025-2040	ansible_host=10.3.72.210 owner=shornikovayu
+3642-A14-2105	ansible_host=10.3.72.120 owner=bulachevma
+3642-A14-5781	ansible_host=10.3.72.186 owner=savchenkonv
+3642-A17-2030	ansible_host=10.3.72.54 owner=farionovms
+3642-A19-2111	ansible_host=10.3.72.101 owner=tkachukvv
+3642-A20-5211	ansible_host=10.3.72.117 owner=marchenkoelvl
+3642-A20-5721	ansible_host=10.3.72.58 owner=zelenovin
+3642-A22-2106	ansible_host=10.3.72.203 owner=grineg
+3642-A24-3003	ansible_host=10.3.72.152 owner=klochkovansh
+3642-A28-5361	ansible_host=10.3.72.197 owner=gusevya
+3642-A4-8751	ansible_host=10.3.72.61 owner=babkinal
+3642-A9-0161	ansible_host=10.3.72.210 owner=ranyukav
+3642-A9-4111	ansible_host=10.3.72.209 owner=osipovvm
+3642-B003-1111	ansible_host=10.3.72.56 owner=shvechihinva
+3642-B003-2046	ansible_host=10.3.72.83 owner=solodovnikovatv
+3642-B003-2054	ansible_host=10.3.72.87 owner=vlasovdi
+3642-B003-3111	ansible_host=10.3.72.105 owner=nebykovav
+3642-B003-5692	ansible_host=10.3.72.66 owner=litvinayu
+3642-B003-7561	ansible_host=10.3.72.89 owner=ledentsovev
+3642-B004-0881	ansible_host=10.3.72.94 owner=gadzhimetovsa
+3642-B004-1111	ansible_host=10.3.72.88 owner=karamyshevaee
+3642-B004-3271	ansible_host=10.3.72.111 owner=gvozdkovaa
+3642-C002-2008	ansible_host=10.3.72.148 owner=lylkasean
+# 3642-C002-5331	ansible_host=10.3.72.91 owner=?
+3642-C002-9871	ansible_host=10.3.72.154 owner=kudinas
+3642-C019-2070	ansible_host=10.3.72.143 owner=tumanovdi
+3642-C019-5321	ansible_host=10.3.72.135 owner=baluevaa
+3642-C028-0891	ansible_host=10.3.72.92 owner=zhdanovamavi
+# 3642-C028-1736	ansible_host=11.196.26.43 owner=muldagalievbs
+3642-C028-2102	ansible_host=10.3.72.86 owner=kejvatovava
+3642-C028-5241	ansible_host=10.3.72.129 owner=odenevadv
+3642-C028-6524	ansible_host=10.3.72.158 owner=yagubovev
+3642-C028-9751	ansible_host=10.3.72.128 owner=?
+3642-C028-9811	ansible_host=10.3.72.100 owner=?
+# 3642-D001-0781	ansible_host=10.3.72.215 owner=garmatenko
+3642-d001-2111	ansible_host=10.3.72.217 owner=?
+3642-D001-3622	ansible_host=10.3.72.123 owner=?
+3642-D001-3691	ansible_host=10.3.72.161 owner=diachenkona
+3642-D001-4971	ansible_host=10.3.72.97 owner=igumentsevsv
+3642-D001-5721	ansible_host=10.3.72.57 owner=muraveves
+3642-d001-6321	ansible_host=10.3.72.60 owner=kroshenkoayu
+# 3642-D001-9211	ansible_host=10.3.72.199 owner=obukhovag
+3642-D001-9781	ansible_host=10.3.72.131 owner=?
+3642-F003-5371	ansible_host=10.3.72.176 owner=nazarovalvl
+3642-F003-5471	ansible_host=10.3.72.96 owner=maksimovaea
+3642-F013-2080	ansible_host=10.3.72.85 owner=smetaninaia
+3642-F013-2087	ansible_host=10.3.72.118 owner=tekuchevaea
+3642-F013-2091	ansible_host=10.3.72.145 owner=arkovnyu
+3642-F013-2093	ansible_host=10.3.72.136 owner=chernovaib
+3642-F013-5411	ansible_host=10.3.72.193 owner=velmanlv
+3642-F013-5431	ansible_host=10.3.72.198 owner=kotovaiv
+3642-F013-5441	ansible_host=10.3.72.196 owner=meshcheryakovata
+3642-F013-5451	ansible_host=10.3.72.182 owner=korotkovaov
+3642-F013-5461	ansible_host=10.3.72.119 owner=kubyshkinans
+3642-F13-4931   ansible_host=10.3.72.207 
+3642-F014-1121	ansible_host=10.3.72.84 owner=tirovatv
+3642-F014-2081	ansible_host=10.3.72.184 owner=ionovamv
+3642-F014-2086	ansible_host=10.3.72.173 owner=bublikov
+3642-F014-5381	ansible_host=10.3.72.187 owner=rudovasa
+3642-F014-5391	ansible_host=10.3.72.181 owner=sivkois
+3642-F014-0131  ansible_host=10.3.72.147 owner=kolotukhinain
+3642-M008-5631	ansible_host=10.3.72.130 owner=fisyukovvv
+
+[podrazdeleniya]
+3642-a009-8721	ansible_host=11.198.22.12 #svistok
+3642-m021-0911	ansible_host=10.3.72.50
+3642-k002-7971	ansible_host=10.3.72.155
+3642-C003-1451	ansible_host=10.3.72.101
+3642-G002-1797	ansible_host=10.3.72.142
+3642-A005-2111	ansible_host=10.3.72.217
+3642-k002-2092	ansible_host=10.3.72.216
+3642-A20-7991	ansible_host=10.3.72.110
+3642-G001-2034	ansible_host=10.3.72.157
+3642-g002-3591	ansible_host=10.3.72.72
+3642-G002-8571	ansible_host=10.3.72.168
+3642-C004-2107	ansible_host=10.3.72.137
+3642-F013-2090	ansible_host=10.3.72.108
+3642-C003-7991	ansible_host=10.3.72.124
+3642-g002-2088	ansible_host=10.3.72.67
+3642-C003-3291	ansible_host=10.3.72.137
+3642-a009-2003	ansible_host=10.3.72.195
+3642-A20-2035	ansible_host=10.3.72.210
+3642-A009-2003	ansible_host=10.3.72.101
+3642-G001-2077	ansible_host=10.3.72.90
+3642-C003-2060	ansible_host=10.3.72.164
+3642-k004-0911	ansible_host=10.3.72.189
+## 3642-A007-8721	ansible_host=11.196.26.44
+3642-k001-0821	ansible_host=10.3.72.217
+3642-K004-7391	ansible_host=10.3.72.214
+3642-k001-2081	ansible_host=10.3.72.190
+3642-F003-2089	ansible_host=10.3.72.213
+3642-F013-4911	ansible_host=10.3.72.110
+3642-g003-2015	ansible_host=10.3.72.139
+3642-k001-7607	ansible_host=10.3.72.159
+3642-ATS	ansible_host=10.3.72.84
+3642-k001-2067	ansible_host=10.3.72.174
+3642-G003-2051	ansible_host=10.3.72.139
+3642-b001-2062	ansible_host=10.3.72.152
+3642-D001-1471	ansible_host=10.3.72.114
+3642-k002-2057	ansible_host=10.3.72.147
+3642-K002-2057	ansible_host=10.3.72.147
+3642-A017-0751	ansible_host=10.3.72.182
+3642-F013-0171	ansible_host=10.3.72.61
+3642-f1-5631	ansible_host=10.3.72.72
+3642-A007-2074	ansible_host=10.3.72.59
+3642-M001-2036	ansible_host=10.3.72.187
+3642-A025-2102	ansible_host=10.3.72.130
+## 3642-M008-5111	ansible_host=11.198.20.4
+3642-A017-2083	ansible_host=10.3.72.142
+3642-A022-2005	ansible_host=10.3.72.55
+3642-F014-2094	ansible_host=10.3.72.95
+3642-A028-8971	ansible_host=10.3.72.149
+3642-A009-5211	ansible_host=10.3.72.122
+3642-A007-1111	ansible_host=10.3.72.81
+3642-F013-2088	ansible_host=10.3.72.71
+3642-F014-5401	ansible_host=10.3.72.195
+3642-F015-2070	ansible_host=10.3.72.136
+3642-A20-5271	ansible_host=10.3.72.192
+3642-P002-0325	ansible_host=10.3.72.165
+3642-D001-7751	ansible_host=10.3.72.152
+
+[uch_klass]
+3642-C017-8069	ansible_host=10.3.72.178
+3642-C017-8269	ansible_host=10.3.72.172
+3642-C017-8369	ansible_host=10.3.72.170
+3642-C017-8469	ansible_host=10.3.72.175
+3642-C017-8569	ansible_host=10.3.72.77
+3642-C017-8669	ansible_host=10.3.72.141
+3642-C017-8769	ansible_host=10.3.72.126
+3642-C017-8869	ansible_host=10.3.72.179
+3642-C017-8969	ansible_host=10.3.72.177
+
+[mgss]
+3642-R142-4063	ansible_host=11.196.26.36 owner=marchuksv unit="Рота связи" 
+3642-r142-7994	ansible_host=11.196.26.43 
+
+[linux:children]
+upravlenie
+podrazdeleniya
+uch_klass
+mgss
