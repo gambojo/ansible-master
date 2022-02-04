@@ -1,0 +1,15 @@
+---
+- name: Вывод текущих сессий поьзователей
+  hosts: upravlenie, podrazdeleniya
+  become: yes
+  gather_facts: false
+
+  tasks:
+  - name: Проверка наличия сессий
+    shell: "users"
+    register: results
+
+  - name: На данный момент запущенны следующие сессии
+    debug:
+      var: results.stdout
+...
