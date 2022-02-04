@@ -19,7 +19,7 @@
 3642-A007-5231	ansible_host=10.3.72.134 owner=zinnurovai
 3642-A007-5871	ansible_host=10.3.72.180 owner=bp010_3642_yuo
 3642-A007-8521	ansible_host=10.3.72.202 owner=bazanovvv
-3642-A009-9111	ansible_host=10.3.72.98 owner=talanovdy unit="Отделение связи" phone="10-01"
+3642-A009-9111	ansible_host=10.3.72.98 owner=talanovdy unit="Отделение связи" phone="10-11"
 3642-A014-3694	ansible_host=10.3.72.55 owner=ershovanser
 3642-A014-8000	ansible_host=10.3.72.183 owner=kapustinvv
 3642-A016-0861	ansible_host=10.3.72.211 owner=vorobevalgr
@@ -36,7 +36,7 @@
 3642-A021-5341	ansible_host=10.3.72.55 owner=bikeevsg
 3642-A022-2094	ansible_host=10.3.72.95 owner=yakovlevvp
 3642-A022-2601  ansible_host=10.3.72.74 owner=ivanovnipa
-## 3642-A023-8871	ansible_host=10.3.72.115 Щукин???
+# 3642-A023-8871	ansible_host=10.3.72.115 #Щукин???
 3642-A025-2040	ansible_host=10.3.72.210 owner=shornikovayu
 3642-A14-2105	ansible_host=10.3.72.120 owner=bulachevma
 3642-A14-5781	ansible_host=10.3.72.186 owner=savchenkonv

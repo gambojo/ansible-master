@@ -5,7 +5,14 @@
   gather_facts: false
 
   tasks:
-  - name: Наличие соединения с хостами
+  - name: Проверка наличие соединения с хостами
+    ping:
+
+  - name: Вывод сведений о хостах
     debug:
-      msg: "Подр.: /{{ unit }}/. | Тел.: /{{ phone }}/ | ip.: /{{ ansible_host }}/ | User.: /{{ owner }}/"
+      msg:
+      - Подразделение - {{ unit }}
+      - Телефон - {{ phone }}
+      - ip-адрес - {{ ansible_host }}
+      - Пользователь - {{ owner }}
 ...
